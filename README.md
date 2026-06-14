@@ -1,6 +1,15 @@
 # 0_3_0_Claude
 
-Working directory for Claude Code sessions.
+My personal Claude Code workspace.
 
-User: gerry
-Created: 2026-06-12
+## What this is
+A working directory for AI-assisted tasks using Claude Code and Hermes (local AI via Ollama).
+
+## Tools in use
+- Claude Code — AI coding assistant
+- Hermes — local AI agent running deepseek-r1 via Ollama
+- Git + GitHub — version control and cloud backup
+
+## Owner
+Gerry Janicki
+Created: 2026-06-13
